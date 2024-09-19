@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Emmanuel-okugo
+- 🌱 I’m currently learning c
